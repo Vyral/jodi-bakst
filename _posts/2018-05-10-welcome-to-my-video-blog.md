@@ -3,26 +3,19 @@ youtube_code:
 excerpt:
 enclosure:
 pullquote:
-enclosure_type: video/mp4
+enclosure_type:
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /img/cover.jpg
+youtube_alternate_image:
 layout: post
-title: this is a test post
-date: 2018-05-10
+title: Welcome to My Video Blog!
+date: 2018-05-10 00:00:00
 tags:
   - Market Update
   - Real Estate
   - Home Seller Tips
-excerpt: 'Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid.'
-enclosure:
-pullquote: This is an example of a pull quote
-enclosure_type: video/mp4
-enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
-youtube_code: SFFy_drFrZs
 ---
+
 {% include youtube.html %}
 
 Master cleanse pork belly pour-over VHS kogi locavore. Butcher chartreuse pour-over, farm-to-table slow-carb asymmetrical hexagon man braid. Echo park fingerstache man bun, humblebrag direct trade lyft hot chicken tofu green juice tacos shabby chic deep v. Gentrify meh narwhal woke post-ironic, yr intelligentsia keytar franzen af. Poke vape skateboard, la croix beard pok pok mlkshk scenester ramps **gastropub marfa r**etro roof party kinfolk unicorn. Lomo keffiyeh gochujang slow-carb kitsch celiac. Succulents asymmetrical franzen intelligentsia tofu.
