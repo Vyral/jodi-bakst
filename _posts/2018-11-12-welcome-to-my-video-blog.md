@@ -2,7 +2,9 @@
 youtube_code:
 excerpt:
 enclosure:
-pullquote:
+pullquote: >-
+  My monthly messages will provide you with market updates, tips, and other
+  educational information having to do with our market.
 enclosure_type:
 enclosure_time:
 use_youtube_image: true
@@ -16,4 +18,10 @@ tags:
   - Home Seller Tips
 ---
 
-My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.
+I’ll be posting two monthly video messages on this blog that will consist of tips and tricks, the latest news with our market, &nbsp; &nbsp;.&nbsp;
+
+&nbsp;
+
+Let me know if you have any questions or if you’re thinking of buying or selling a home in Chapel Hill, Durham, Cary, or the surrounding area soon.
+
+Check back because content will be coming soon!
