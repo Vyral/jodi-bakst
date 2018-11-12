@@ -18,10 +18,10 @@ tags:
   - Home Seller Tips
 ---
 
-I’ll be posting two monthly video messages on this blog that will consist of tips and tricks, the latest news with our market, &nbsp; &nbsp;.&nbsp;
-
-&nbsp;
+I’ll be posting two monthly video messages on this blog that will consist of the latest knowledge, tips, updates, and other news stemming from my team's exhaustive knowledge of our market.&nbsp;
 
 Let me know if you have any questions or if you’re thinking of buying or selling a home in Chapel Hill, Durham, Cary, or the surrounding area soon.
 
 Check back because content will be coming soon!
+
+We're excited to connect with you and provide you with information that will greatly benefit you as a home buyer or seller.&nbsp;
