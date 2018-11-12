@@ -24,4 +24,4 @@ Let me know if you have any questions or if you’re thinking of buying or selli
 
 Check back because content will be coming soon!
 
-We're excited to connect with you and provide you with information that will greatly benefit you as a home buyer or seller.&nbsp;
+We're excited to connect with you and provide you with information that will greatly benefit you as a homebuyer or seller.&nbsp;
