@@ -7,7 +7,7 @@ pullquote: >-
   educational information having to do with our market.
 enclosure_type:
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/bigstock-asian-senior-couple-from-behin-254862710.jpg
 layout: post
 title: Welcome to My Video Blog!
