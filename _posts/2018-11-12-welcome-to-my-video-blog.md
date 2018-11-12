@@ -2,9 +2,7 @@
 youtube_code:
 excerpt:
 enclosure:
-pullquote: >-
-  My monthly messages will provide you with market updates, tips, and other
-  educational information having to do with our market.
+pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: true
@@ -18,3 +16,4 @@ tags:
   - Home Seller Tips
 ---
 
+My monthly messages will provide you with market updates, tips, and other educational information having to do with our market.
