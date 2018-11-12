@@ -2,7 +2,9 @@
 youtube_code:
 excerpt:
 enclosure:
-pullquote:
+pullquote: >-
+  My monthly messages will provide you with market updates, tips, and other
+  educational information having to do with our market.
 enclosure_type:
 enclosure_time:
 use_youtube_image: true
