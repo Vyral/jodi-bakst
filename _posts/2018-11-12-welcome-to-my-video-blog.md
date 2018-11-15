@@ -8,7 +8,7 @@ pullquote:
 enclosure_type:
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/bigstock-home-sweet-home-welcome-mat-m-235686472-1-1.jpg
 layout: post
 title: Welcome to My Video Blog!
 date: 2018-11-12 00:00:00
