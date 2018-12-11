@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Do Buyer’s or Seller’s Hold the Edge in Our Market?
-date: 2018-12-10 18:54:37
+title: Do Buyers or Sellers Hold the Edge in Our Market?
+date: 2018-12-10 18:54:00
 tags:
   - Real Estate
   - Market Update
@@ -37,5 +37,3 @@ In summary, **prices are rising, sellers are getting a very high portion of thei
 If you’re a seller, this means it’s still a good time to put your home on the market due to the high demand we’re seeing. If you’re a buyer, these conditions mean you need to know how to negotiate in order to get the best deal possible.
 
 If you have any more questions about our local market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be glad to help you.
-
-&nbsp;
