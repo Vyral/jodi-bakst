@@ -34,6 +34,6 @@ The most important thing to do, though, is reach out to a Realtor you know and t
 
 At Real Estate Experts, we are more than happy to help you. Just reach out to us and we can pull the relevant information for you. Hope to hear from you soon!
 
-## [Click here for a walk through of how to appeal your new tax revaluation.](https://www.youtube.com/watch?v=bklaQSV4duE&amp;feature=youtu.be){: target="_blank"}
+## ***[Click here for a walk through of how to appeal your new tax revaluation.](https://www.youtube.com/watch?v=bklaQSV4duE&amp;feature=youtu.be){: target="_blank"}***
 
 &nbsp;
