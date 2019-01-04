@@ -34,4 +34,4 @@ The most important thing to do, though, is reach out to a Realtor you know and t
 
 At Real Estate Experts, we are more than happy to help you. Just reach out to us and we can pull the relevant information for you. Hope to hear from you soon!
 
-[![](/uploads/1-4-19walkthrough.jpg)](https://www.youtube.com/watch?v=bklaQSV4duE&amp;feature=youtu.be){: target="_blank"} 
+<img src"https://trello-attachments.s3.amazonaws.com/55a566c96c87836ee26c6100/5c23b8334451a0867bdd1534/5a88ca0d5292ddafaf3f05340a7ef92e/1.4.19walkthrough.jpg" width="765" height="296" alt="https://www.youtube.com/watch?v=bklaQSV4duE&feature=youtu.be">
