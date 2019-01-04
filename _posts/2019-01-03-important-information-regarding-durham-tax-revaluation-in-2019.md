@@ -33,3 +33,5 @@ In the case of an appeal, Durham wants you to do your research and then submit t
 The most important thing to do, though, is reach out to a Realtor you know and trust; they can help you pull the comparables, review the ones the county is using, and give you their professional opinion of your home’s value. You won’t know your actual tax bill until the middle of 2019 when the county defines its tax rates. They’ll first figure out how much money they need, then they’ll set the rate to figure out their budgets, so even if your tax value goes way up, your actual tax bill may not.
 
 At Real Estate Experts, we are more than happy to help you. Just reach out to us and we can pull the relevant information for you. Hope to hear from you soon!
+
+[![](/uploads/1-4-19walkthrough.jpg)](https://www.youtube.com/watch?v=bklaQSV4duE&amp;feature=youtu.be){: target="_blank"}
