@@ -26,7 +26,7 @@ With Durham revaluing properties in 2019, it’s on a three-year cycle, which is
 
 Properties were technically revalued as of January 1, 2019. Homeowners will begin receiving their property values in the mail by the end of January. From **mid-February to around March 1, homeowners can go to learn about the process and how to appeal it** if they disagree with the property value.
 
-In the case of an appeal, Durham wants you to do your research and then submit that information to them when you submit the appeal. T**he appeal itself must be in no later than May 3, 2019.** This is a very important date—if they receive your submission on May 4, they will not acknowledge it. To submit, go online to [www.dconc.gov/taxhelp](http://www.dconc.gov/taxhelp){: target="_blank"}. There, you can go through the process of finding your property, look at the current or revalued tax rate, and see how to find comparable sales.
+In the case of an appeal, Durham wants you to do your research and then submit that information to them when you submit the appeal. **T****he appeal itself must be in no later than May 3, 2019.** This is a very important date—if they receive your submission on May 4, they will not acknowledge it. To submit, go online to [www.dconc.gov/taxhelp](http://www.dconc.gov/taxhelp){: target="_blank"}. There, you can go through the process of finding your property, look at the current or revalued tax rate, and see how to find comparable sales.
 
 {% include pullquote.html %}
 
@@ -34,4 +34,6 @@ The most important thing to do, though, is reach out to a Realtor you know and t
 
 At Real Estate Experts, we are more than happy to help you. Just reach out to us and we can pull the relevant information for you. Hope to hear from you soon!
 
-<a href="https://www.youtube.com/watch?v=bklaQSV4duE&feature=youtu.be"><img src="https://s3.amazonaws.com/vyralmarketing/Jodi+Bakst/1.4.19walkthrough.jpg" width="560" height="315" alt=" "></a>
+## [Click here for a walk through of how to appeal your new tax revaluation.](https://www.youtube.com/watch?v=bklaQSV4duE&amp;feature=youtu.be){: target="_blank"}
+
+&nbsp;
