@@ -16,8 +16,6 @@ youtube_code: XrhxX7u8wlU
 
 {% include youtube.html %}
 
-&nbsp;
-
 Real estate numbers tend to lag behind a bit, so the statistics we’re looking at today come from January. However, they can still give us a good look at where our market lies.
 
 **Comparing January 2019’s numbers to last year’s, the market has definitely improved.** Home showings are up 8%, inventory is up 11%, and pending sales are also up 11%. Because we’re still early in the season, however, the number of days on market has increased a bit.
