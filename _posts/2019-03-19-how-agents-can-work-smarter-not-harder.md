@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'How Agents Can Work Smarter, Not Harder'
-date: 2019-03-19 15:54:51
+date: 2019-03-19 15:54:00
 tags:
   - Real Estate
 excerpt: These three tips will allow your hard work to bring even greater rewards.
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: firKp4oIiZE
+youtube_code: HH1nPzZxoV8
 ---
 
 {% include youtube.html %}
